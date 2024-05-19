@@ -5,14 +5,14 @@ function Header () {
      <div className="w-full h-full bg-black md:px-20 px-8 bg-opacity-35 md:pt-10 pt-5">
 <div className="flex justify-between">
 <h1 className="font-bold text-xl cursor-pointer">Hostify</h1>
-<nav className="hidden md:flex">
+{/* <nav className="hidden md:flex">
     <ul className="flex justify-between w-80">
         <li><a href="#" className="transition-all duration-300 hover:text-violet-300">Hosting</a></li>
         <li><a href="#" className="transition-all duration-300 hover:text-violet-300">Domains</a></li>
         <li><a href="#" className="transition-all duration-300 hover:text-violet-300">About</a></li>
         <li><a href="#" className="transition-all duration-300 hover:text-violet-300">Contact</a></li>
     </ul>
-</nav> 
+</nav>  */}
 <IoPersonCircle className="text-3xl"/>
 </div>
 <div class="flex items-center justify-center h-full">
